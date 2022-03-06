@@ -1,6 +1,6 @@
 # Projeto 1 - AWS
 
-Nesse projeto, recebi uma requisição de um cliente e o mesmo precisa de uma solução para seu cenário atual.
+Nesse projeto, recebi uma requisição de um cliente que precisa de uma solução para instabilidade de seu site.
 
 # Requisição do cliente.
 
@@ -12,3 +12,5 @@ No último anúncio sobre a divulgação de um evento do mesmo tipo, a empresa f
 Para isso, é necessário uma solução para manter seu site funcionando sem indisponibilidade.
 É preisto um aumento de acessos em seu site, pois o evento terá participação de uma empresa renomada.
 Estima-se receber algo em torno de 20.000 mil acessos a mais por dia. A campanha durará 20 dias, porém após o encerramento do evento, o site precisará continuar com a mesma disponibilidade.
+
+
