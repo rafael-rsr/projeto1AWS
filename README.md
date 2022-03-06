@@ -2,6 +2,8 @@
 
 Nesse projeto, recebi uma requisição de um cliente que precisa de uma solução para instabilidade de seu site.
 
+[Projeto](https://github.com/rafael-rsr/projeto1AWS/tree/main/Projeto)
+
 # Requisição do cliente.
 
 A empresa "Cliente" possui um site em WordPress que atualmente está hospedado em uma VPS.
