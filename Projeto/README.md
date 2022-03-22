@@ -17,7 +17,7 @@ Inciei uma instancia EC2 com WordPress e suas dependencias.
 
 Configurei o Apache para o WordPress em /etc/apache2/sites-available/wordpress.conf contendo:
 
-            <VirtualHost *:80>
+           <VirtualHost *:80>
                 DocumentRoot /srv/www/wordpress
                 <Directory /srv/www/wordpress>
                     Options FollowSymLinks
